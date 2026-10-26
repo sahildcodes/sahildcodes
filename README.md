@@ -5,6 +5,9 @@ inputs into clear, useful results.
 
 ## Featured projects
 
+- **[uMove](https://umove-game.vercel.app)** — accessibility-focused motion
+  exercise games with sitting and standing modes, real-time pose tracking, and
+  hands-free gesture navigation.
 - **[PriceLens](https://github.com/sahildcodes/pricelens)** — a privacy-conscious
   Flask product-comparison prototype with layered architecture, deterministic
   ranking, versioned APIs, and automated tests.
